@@ -27,7 +27,7 @@ export default class Patterning extends cc.Component {
         this._verticalNum = 5;
         this._horizontalNum = 5;
 
-        this.node.color = new cc.Color(125, 125, 125)
+
     }
 
     start () {
@@ -35,7 +35,7 @@ export default class Patterning extends cc.Component {
             for (let j = 0; j < this._verticalNum; j++) {
                 let index = j + (i*this._verticalNum)
                 let rectangleItem = cc.instantiate(this.pfb_rectangle);
-                let item = rectangleItem.getComponent(RectangleItem).initItem(index, PATTERNING.RECTANGLE, 150, 150, new cc.Color(125, 125, 255));
+                let item = rectangleItem.getComponent(RectangleItem).initItem(index, PATTERNING.RECTANGLE, 170, 150, new cc.Color(125, 125, 255));
                 this.layoutGame.addChild(item);
                 
             }

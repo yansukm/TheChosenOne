@@ -171,7 +171,7 @@
       "array": [
         0,
         0,
-        526.5434455009387,
+        525.6774200971543,
         0,
         0,
         0,
@@ -504,7 +504,7 @@
       "__id__": 7
     },
     "pfb_rectangle": {
-      "__uuid__": "48f9dd5b-4706-4f25-b005-2fceec14629e"
+      "__uuid__": "51e409cc-0539-4862-9b77-247d1256bc0b"
     },
     "_id": "fcZ6fQKGBGsKt/JWrP2VFc"
   },
@@ -524,7 +524,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "fc7821f1-c74f-4bf5-b86f-16946b6bc2d3"
+      "__uuid__": "0c17a6e5-bee4-4035-8ecc-558951b108a6"
     },
     "_type": 0,
     "_sizeMode": 0,
